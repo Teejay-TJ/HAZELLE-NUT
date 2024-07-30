@@ -1,0 +1,101 @@
+body{
+    padding: 0.5rem 9rem;
+    margin: 0%;
+    height: 100vh;
+    background: #5C2513;
+
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   word-spacing: 50px;
+    padding-right: 25px;
+}
+.navitems{
+display: flex;
+margin: auto;
+}
+.navitems ul{
+margin: 0px;
+opacity: 0.7;
+}
+.navitems ul li{
+    display: inline;
+   margin: 10px;
+   font-family: Outfit;
+font-size: 25px;
+font-weight: 700;
+line-height: 31.5px;
+text-align: left;
+color: #FFFFFF;
+word-spacing: 60px;
+}
+.navitems ul span{
+    padding-right: 20px;
+    word-spacing: normal;
+}
+.hero{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.hero h1{
+    font-family: Outfit;
+font-size: 70px;
+font-weight: 700;
+line-height: 109.62px;
+text-align: left;
+color: #FFFFFF;
+line-height: 1.2;
+}
+.hero p{
+    font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 23.44px;
+text-align: left;
+color: #FFFFFF;
+text-align: left;
+line-height: 1;
+}
+.button1{
+    width: 200px;
+height: 64px;
+top: 693px;
+left: 188px;
+gap: 0px;
+border-radius: 50px;
+opacity: 0px;
+font-family: Outfit;
+font-size: 20px;
+font-weight: 600;
+line-height: 25.2px;
+letter-spacing: 0.02em;
+color: #471D0F;
+background: #D9D9D9;
+border: none;
+
+}
+.button2{
+   width: 200px;
+height: 64px;
+top: 693px;
+left: 188px;
+gap: 0px;
+border-radius: 50px;
+opacity: 0px;
+font-family: Outfit;
+font-size: 20px;
+font-weight: 600;
+line-height: 25.2px;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+background: #5C2513;
+border-width: 1px;
+border-color: #FFFFFF;
+ 
+}
+
+
